@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>Muhammad Usman</b>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Laravel
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me <br> muhammad.usman71199@gmail.com
 
 <!---
