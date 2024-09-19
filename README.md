@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Muhammad Usman</b>
-- 👨‍💻 Laravel Developer at Software One
+- 👨‍💻 Backend Developer at Array Digitals
 - 🌐 Designing and developing innovative web applications using Laravel and PHP.
 - 🎓 BS in Computer Science from Virtual University of Pakistan.
 - 📜 Full Stack Web Development Certificate from AL-Fateem Academy.
